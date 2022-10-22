@@ -1,4 +1,4 @@
-package second;
+package ProgrammersLv0;
 
 public class CountLetter {
     class Solution {

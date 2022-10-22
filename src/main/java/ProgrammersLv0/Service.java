@@ -1,4 +1,4 @@
-package second;
+package ProgrammersLv0;
 
 class Solution {
     public int solution(int n, int k) {
